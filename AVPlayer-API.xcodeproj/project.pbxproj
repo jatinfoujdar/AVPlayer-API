@@ -58,11 +58,11 @@
 			isa = PBXGroup;
 			children = (
 				599CC1332C88C1C100AF5E08 /* AVPlayer_APIApp.swift */,
+				599CC1442C88F1DA00AF5E08 /* VideoManager.swift */,
 				599CC1462C88FE8300AF5E08 /* Views */,
 				599CC1412C88D28C00AF5E08 /* Components */,
 				599CC1372C88C1C200AF5E08 /* Assets.xcassets */,
 				599CC1392C88C1C200AF5E08 /* Preview Content */,
-				599CC1442C88F1DA00AF5E08 /* VideoManager.swift */,
 			);
 			path = "AVPlayer-API";
 			sourceTree = "<group>";
